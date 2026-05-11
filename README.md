@@ -11,9 +11,9 @@
 
 I am a passionate **11th-grade Information Technology student** at **Kıraç Borsa İstanbul Mesleki ve Teknik Anadolu Lisesi**. I focus on building robust applications using **ASP.NET Core** for the backend, **React Native** for mobile experiences, and modern web technologies. I love turning complex problems into simple, beautiful, and scalable code.
 
-🔭 Current Project: Building a comprehensive E-commerce platform for mobile sales using ASP.NET Core and SQL Server.
-🌱 Learning: Mastering React Native to develop high-performance, cross-platform mobile applications for the modern market.
-- 📍 **Location:** Istanbul, Turkey
+* 🔭 **Current Project:** Building a comprehensive E-commerce platform for mobile sales using **ASP.NET Core** and **SQL Server**.
+* 🌱 **Learning:** Mastering **React Native** to develop high-performance, cross-platform mobile applications for the modern market.
+* 📍 **Location:** Istanbul, Turkey
 
 ---
 
@@ -31,7 +31,7 @@ I am a passionate **11th-grade Information Technology student** at **Kıraç Bor
 
 ### 📜 Certifications
 
-I am constantly improving my skills through certified training programs. 
+I am constantly improving my skills through certified training programs.
 
 * 🥇 **React Native 101** - Turkcell Geleceği Yazanlar
 * 🥇 **React Native 201** - Turkcell Geleceği Yazanlar
@@ -56,7 +56,7 @@ I am constantly improving my skills through certified training programs.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/serhildan-yakut-23142935a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:serhildanyakut@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:serhildanyakut@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 </p>
 
 ---
